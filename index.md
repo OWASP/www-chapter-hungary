@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Hungary \[HU\]
+title: OWASP Hungary [HU]
 tags: budapest, hungary
 level: 0
 region: Europe
