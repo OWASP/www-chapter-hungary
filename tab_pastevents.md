@@ -924,7 +924,4 @@ az elérhető szponzor csomagokért.
 
 <headertabs />
 
-
-
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:Europe](Category:Europe "wikilink")
+Founders: Bálint Szabó, Krisztián Schäffer, Tibor Fekete, Timur 'x' Khrotko
