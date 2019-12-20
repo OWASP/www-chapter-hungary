@@ -12,7 +12,7 @@ region: Europe
 
 ## OWASP HU meetups in 2018 and later
 
-*For living content please proceed to the meetup.org location of the chapter:* 
+**For living content please proceed to the _meetup.org_ location of the chapter:**
 
 <https://www.meetup.com/OWASP-HU/> 
 
