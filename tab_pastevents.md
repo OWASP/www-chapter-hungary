@@ -1,11 +1,10 @@
 ---
 
-layout: col-sidebar
-title: Pre-2016 events of OWASP HU
-tags: budapest, hungary
-level: 0
-
-region: Europe
+title: PastEvents
+displaytext: Pre-2016 events of OWASP HU
+layout: null
+tab: true
+order: 2
 
 
 ---
