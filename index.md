@@ -20,7 +20,7 @@ Some useful stuff we created so far you can find at our youtube channel:
 
 
 Many thanks to the current chapter sponsor:
-<img src="assets/images/AvataoLogoBlue.png" alt="AvataoLogoBlue.png"/>
+<img src="assets/pix/AvataoLogoBlue.png" alt="AvataoLogoBlue.png"/>
 
 ## About \[hu\]
 
