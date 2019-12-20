@@ -11,8 +11,8 @@ currency: HUF
 
 ## About this page
 
-This page is an anchor cyber location the OWASP Hungary chapter.
-For living content please proceed to meetup.org: 
+This page is an anchor cyber location the OWASP Hungary chapter. 
+For living content please proceed to the meetup.org location of the chapter: 
 <https://www.meetup.com/OWASP-HU/> 
 
 Some useful stuff we created so far you can find at our youtube channel: 
