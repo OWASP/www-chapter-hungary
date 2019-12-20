@@ -66,8 +66,10 @@ alkalmazásbiztonságban érintett szereplők, azaz vállalatok és
 intézmények, fejlesztő műhelyek, biztonsági szakértők, hatóságok és
 felhasználók között kialakuljon az a szemlélet, hogy **a biztonság a jó
 szoftver fogalmának része**.
-![assets/pix/past/OWASP_Because_the_world_is_Cruel.JPG‎](OWASP_Because_the_world_is_Cruel.JPG‎
-"OWASP_Because_the_world_is_Cruel.JPG‎")
+
+
+<img src="assets/pix/past/OWASP_Because_the_world_is_Cruel.JPG" />
+
 
 
 {info.md}
