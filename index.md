@@ -72,11 +72,3 @@ szoftver fogalmának része**.
 <img src="assets/pix/past/250px-OWASP_Because_the_world_is_Cruel.jpeg" />
 
 
-
-{info.md}
-
-
-{leaders.md}
-
-
--->
