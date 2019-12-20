@@ -1,54 +1,73 @@
 ---
 
 layout: col-sidebar
-title: OWASP Hungary
-tags: example-tag
+title: OWASP Hungary \[HU\]
+tags: budapest, hungary
 level: 0
-
 region: Europe
-
-auto-migrated: 1
+currency: HUF
 
 ---
 
+## About this page
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+This page is an anchor cyber location the OWASP Hungary chapter.
+For living content please proceed to meetup.org:
+<https://www.meetup.com/OWASP-HU/>
+Some useful stuff we created so far you can find at our youtube channel:
+<https://www.youtube.com/channel/UCz82feq2hvESJcw08DBf0RA>
 
-{front matter for this file}
+Many thanks to the current chapter sponsor:
+<img src="assets/images/AvataoLogoBlue.png" alt="AvataoLogoBlue.png"/>
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+## About \[hu\]
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+#### OWASP-ról 18 szóban
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+Az Open Web Application Security Project az alkalmazásbiztonság ügyét
+mozdítja elő. Az AppSec ügye: a hackereknek ellenállóbb szoftver.
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+#### OWASP-ról 123 szóban
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+Az Open Web Application Security Project (OWASP) egy nyílt, független,
+non-profit nemzetközi szervezet, mely a szoftver biztonságát hivatott
+előmozdítani. A szervezet állandó napirenden tartja az alkalmazások
+biztonságának kérdését annak érdekében, hogy a fejlesztések során és a
+vállalati gyakorlatban a biztonsági kockázatokkal kapcsolatos döntések
+jól tájékozott módon szülessenek. Fő cél, hogy természetessé váljon a
+biztonsági szempontból megbízható alkalmazások tervezése, fejlesztése,
+beszerzése, felhasználása és üzemeltetése.
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
+A szervezet céljait úgynevezett projektek révén valósítja meg, melyek
+témái széles spektrumon mozognak: audit módszertanok, fejlesztést
+támogató eszközök, követendő praktikák, szabvány javaslatok. A
+legismertebb OWASP anyag a
+„[Top 10](http://www.owasp.org/index.php/Top_10_2013)”, az aktuális
+webes sérülékenység-típusok slágerlistája. Hasonlóan a nyílt forrású
+szoftver projektekhez, az OWASP különféle anyagai közös, nyílt munka
+eredményeként jönnek létre. Az evangelizációt a helyi szervezetek és
+azok önkéntes tagjai végzik.
 
-```
+#### A tagozat feladata
+
+OWASP az alkalmazásbiztonságról szól (AppSec), arról, hogyan készüljenek
+biztonsági szempontból megbízható alkalmazások. **Az OWASP akkor
+teljesít jól, ha normává válik a szoftverben hagyott sérülékenységek
+minimalizálása, azaz a hackereknek jobban ellenálló szoftver
+készítése.** Magyarországon még sokat kell tenni ilyen norma
+kialakulása érdekében. A tagozat feladata, hogy az
+alkalmazásbiztonságban érintett szereplők, azaz vállalatok és
+intézmények, fejlesztő műhelyek, biztonsági szakértők, hatóságok és
+felhasználók között kialakuljon az a szemlélet, hogy **a biztonság a jó
+szoftver fogalmának része**.
+![OWASP_Because_the_world_is_Cruel.JPG‎](OWASP_Because_the_world_is_Cruel.JPG‎
+"OWASP_Because_the_world_is_Cruel.JPG‎")
+
+
 {info.md}
 
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
 
 {leaders.md}
 
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
 
 -->
