@@ -19,7 +19,7 @@ Some useful stuff we created so far you can find at our youtube channel:
 <https://www.youtube.com/channel/UCz82feq2hvESJcw08DBf0RA> 
 
 
-Many thanks to the current chapter sponsor:
+Many thanks to the current chapter sponsor: 
 <img src="assets/pix/AvataoLogoBlue.png" alt="AvataoLogoBlue.png"/>
 
 ## About \[hu\]
