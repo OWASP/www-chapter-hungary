@@ -68,7 +68,7 @@ felhasználók között kialakuljon az a szemlélet, hogy **a biztonság a jó
 szoftver fogalmának része**.
 
 
-<img src="assets/pix/past/50px-OWASP_Because_the_world_is_Cruel.jpeg" />
+<img src="assets/pix/past/250px-OWASP_Because_the_world_is_Cruel.jpeg" />
 
 
 
