@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Hungary [HU]
 tags: budapest, hungary
-level: 0
+level: 3
 region: Europe
 currency: HUF
 
