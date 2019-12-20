@@ -13,7 +13,7 @@ currency: HUF
 
 This page is an anchor cyber location the OWASP Hungary chapter. 
 
-For living content please proceed to the meetup.org location of the chapter: 
+**For the living content please proceed to the _meetup.org_ location of our chapter:**
 
 <https://www.meetup.com/OWASP-HU/> 
 
@@ -66,7 +66,7 @@ alkalmazásbiztonságban érintett szereplők, azaz vállalatok és
 intézmények, fejlesztő műhelyek, biztonsági szakértők, hatóságok és
 felhasználók között kialakuljon az a szemlélet, hogy **a biztonság a jó
 szoftver fogalmának része**.
-![OWASP_Because_the_world_is_Cruel.JPG‎](OWASP_Because_the_world_is_Cruel.JPG‎
+![assets/pix/past/OWASP_Because_the_world_is_Cruel.JPG‎](OWASP_Because_the_world_is_Cruel.JPG‎
 "OWASP_Because_the_world_is_Cruel.JPG‎")
 
 
