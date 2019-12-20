@@ -12,10 +12,12 @@ currency: HUF
 ## About this page
 
 This page is an anchor cyber location the OWASP Hungary chapter.
-For living content please proceed to meetup.org:
-<https://www.meetup.com/OWASP-HU/>
-Some useful stuff we created so far you can find at our youtube channel:
-<https://www.youtube.com/channel/UCz82feq2hvESJcw08DBf0RA>
+For living content please proceed to meetup.org: 
+<https://www.meetup.com/OWASP-HU/> 
+
+Some useful stuff we created so far you can find at our youtube channel: 
+<https://www.youtube.com/channel/UCz82feq2hvESJcw08DBf0RA> 
+
 
 Many thanks to the current chapter sponsor:
 <img src="assets/images/AvataoLogoBlue.png" alt="AvataoLogoBlue.png"/>
