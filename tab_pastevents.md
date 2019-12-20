@@ -6,7 +6,6 @@ layout: null
 tab: true
 order: 2
 
-
 ---
 
 ## OWASP HU meetups in 2018 and later
