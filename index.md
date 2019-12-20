@@ -1,6 +1,7 @@
 ---
 
 layout: col-sidebar
+site_side: true
 title: OWASP Hungary [HU]
 tags: budapest, hungary
 level: 3
