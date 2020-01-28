@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 site_side: true
-title: OWASP Hungary [HU]
+title: OWASP Hungary
 tags: budapest, hungary
 level: 3
 region: Europe
