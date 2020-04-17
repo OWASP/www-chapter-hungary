@@ -1,2 +1,2 @@
 ### Chapter leader:
-* [Timur Khrotko](mailto://timur@owasp.org)
+* [Timur Khrotko](mailto:timur@owasp.org)
