@@ -7,6 +7,9 @@ tags: budapest, hungary
 level: 3
 region: Europe
 currency: HUF
+meetup-group: OWASP-HU
+country: Hungary
+postal-code: 
 
 ---
 
