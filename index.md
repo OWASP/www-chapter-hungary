@@ -30,7 +30,7 @@ Some useful stuff we created so far you can find at our youtube channel:
 
 Active media support for the chapter: 
 
-<img src="assets/pix/logo.hackeslangos.png" alt="logo.hackeslangos.png"/>
+<img src="assets/pix/logo.hackeslangos.png" alt="logo.hackeslangos.png" width="100"/>
 
 Many thanks to the current chapter supporter: 
 
