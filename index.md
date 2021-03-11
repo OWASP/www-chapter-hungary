@@ -13,7 +13,7 @@ postal-code:
 
 ---
 
-## Check our Upcoming Meetup Events:
+### Check our Upcoming Meetup Events:
 {% include chapter_events.html group=page.meetup-group %}
 
 ## About this page
@@ -28,6 +28,9 @@ Some useful stuff we created so far you can find at our youtube channel:
 
 <https://www.youtube.com/channel/UCz82feq2hvESJcw08DBf0RA> 
 
+Active media support for the chapter: 
+
+<img src="assets/pix/logo.hackeslangos.png" alt="logo.hackeslangos.png"/>
 
 Many thanks to the current chapter supporter: 
 
