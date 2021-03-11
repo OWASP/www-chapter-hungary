@@ -13,9 +13,8 @@ postal-code:
 
 ---
 
-## Events
-
-{% include chapter_events.html group=page.meetup-group %}; 
+## Check our Upcoming Meetup Events:
+{% include chapter_events.html group=page.meetup-group %}
 
 ## About this page
 
