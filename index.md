@@ -28,7 +28,7 @@ Some useful stuff we created so far you can find at our youtube channel:
 
 <https://www.youtube.com/channel/UCz82feq2hvESJcw08DBf0RA> 
 
-Active media support for the chapter: 
+Curent media support for the chapter is provided by: 
 
 <img src="assets/pix/logo.hackeslangos.png" alt="logo.hackeslangos.png" width="100"/>
 
