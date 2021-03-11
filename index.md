@@ -13,6 +13,10 @@ postal-code:
 
 ---
 
+## Events
+
+{% include chapter_events.html group=page.meetup-group %}; 
+
 ## About this page
 
 This page is an anchor cyber location the OWASP Hungary chapter. 
