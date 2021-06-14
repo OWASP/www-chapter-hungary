@@ -883,7 +883,7 @@ több IT biztonsági szakember kitöltené, hogy láthassunk hol tart ma a
 Magyar piac.
 
 A kérdőív
-[1](https://docs.google.com/a/cloudbreaker.co/forms/d/1phqcGHD8zsOA8Mna1BRNsNLvZrentDb6mIPJhBIyoqA/edit)
+[1]
 érhető el\!
 
 A felmérés ereményét később itt is elérhetővé tesszük.
