@@ -13,6 +13,8 @@ postal-code:
 
 ---
 
+<!-- rebuild 001 -->
+
 ### Check our Upcoming Meetup Events:
 {% include chapter_events.html group=page.meetup-group %}
 
