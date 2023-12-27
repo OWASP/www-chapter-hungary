@@ -31,8 +31,10 @@ Some useful stuff we created so far you can find at our youtube channel:
 <https://www.youtube.com/channel/UCz82feq2hvESJcw08DBf0RA> 
 
 Live events on Telegram:
+
 <https://t.me/owasphu?livestream>
-Posts:
+
+Posts: 
 <https://t.me/owasphu>
 
 Curent media support for the chapter is provided by: 
