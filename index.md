@@ -46,12 +46,12 @@ Curent media support for the chapter is provided by:
 
 #### OWASP-ról 18 szóban
 
-Az Open Web Application Security Project az alkalmazásbiztonság ügyét
+Az Open Worldwide Application Security Project az alkalmazásbiztonság ügyét
 mozdítja elő. Az AppSec ügye: a hackereknek ellenállóbb szoftver.
 
 #### OWASP-ról 123 szóban
 
-Az Open Web Application Security Project (OWASP) egy nyílt, független,
+Az Open Worldwide Application Security Project (OWASP) egy nyílt, független,
 non-profit nemzetközi szervezet, mely a szoftver biztonságát hivatott
 előmozdítani. A szervezet állandó napirenden tartja az alkalmazások
 biztonságának kérdését annak érdekében, hogy a fejlesztések során és a
