@@ -898,7 +898,7 @@ kampányát. Fogadjátok sok szeretettel\!
 Megújult az OWASP Magyar tagozata\! Várunk mindenkit, akit érdekel a
 webes alkalmazások biztonsága.
 
-Az Open Web Application Security Project (OWASP) egy nyílt közösség,
+Az Open Worldwide Application Security Project (OWASP) egy nyílt közösség,
 mely azzal a céllal jött létre, hogy a szervezetek számára lehetővé
 tegye megbízható alkalmazások fejlesztését, vásárlását és
 karbantartását. Minden OWASP eszköz, dokumentum, fórum és helyi
